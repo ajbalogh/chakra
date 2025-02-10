@@ -1,8 +1,0 @@
-{
-  "source_directories": [
-    "timeline_visualizer",
-    "et_converter",
-    "utils"
-  ],
-  "search_path": ["/opt/hostedtoolcache/Python/3.8.18/x64/lib/python3.8/site-packages"]
-}
